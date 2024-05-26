@@ -8,8 +8,9 @@
 ### ☎️ **My Contacts**
 - **Discord :** `modanub`
 - **Instagram :** `_modanub`
-### 💼 **My Public Creations**
+### 💼 **My Creations**
 - [X] [@VClasz](https://github.com/VClasz) : Virtual Classroom (Made using Unity)
+- [X] [Pyramid](https://github.com/modanub/pyramid-dc-bot) : Pyramid Discord Bot for mwit 34's discord server (Made using my brain)
 - [X] [PCCCHON's Room Reservation](https://reserve.pccchon.ac.th/) (Made using Next.js)
 ### 🤓 **My Expertises**
 ![Programming Languages](https://github-readme-tech-stack.vercel.app/api/cards?title=Programming+Languages&lineCount=2&width=650&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Javascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bhtml5%2Chtml%2CE34F26%3Bcss3%2Ccss%2C1572B6%3Bpython%2Cpython%2C3776AB%3B&line2=cplusplus%2Cc%2B%2B%2C00599C%3Barduino%2Carduino%2C00878F%3Blua%2Clua%2C2C2D72%3Bjava%2Cjava%2Cb84873%3B)
